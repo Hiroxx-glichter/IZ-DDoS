@@ -29,7 +29,7 @@
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/Hiroxx-glichter/IZ-DDOS.git](https://github.com/Hiroxx-glichter/IZ-DDOS.git)
+git clone https://github.com/Hiroxx-glichter/IZ-DDOS.git
 cd IZ-DDOS
 ```
 2. **Install dependencies:**
